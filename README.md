@@ -21,9 +21,10 @@
 
 - Report results after each run and access extentReport/reports to view images.
   ![Hình minh họa](https://github.com/sinhmaivan97/repoIMG/blob/main/Screenshot%20-01.png)
+  ![Hình minh họa]()
 
 - Automatically capture the screen when an error occurs and access the path extentReport/screenshots to view the image.
-  ![Hình minh họa](https://github.com/sinhmaivan97/repoIMG/blob/main/Screenshot-03.png)
+  ![Hình minh họa](https://www.dropbox.com/scl/fi/jmygjponrufvdu5eo97ce/Screenshot-04.png?rlkey=2b31nel4ra12h8g3xp9hvn6s1&dl=0)
 
 
 
